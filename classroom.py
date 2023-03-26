@@ -1,3 +1,5 @@
+# Google Classrom Automation by cop6567 on github
+
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.by import By
