@@ -1,8 +1,5 @@
 ![Banner](banner.jpg)
 
-![ ](banner.jpg)
-
-
 
 
 # ⚙️ Python Google Classroom Automation
