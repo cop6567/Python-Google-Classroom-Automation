@@ -4,10 +4,17 @@ A simple Python script that retrieves assignments from Google classroom using Se
 
 **Project Setup:** 
 
-You will need to install Selenium to run this automation
+You will need to install Selenium to run this automation. Along with ChromeDriver.
+
+**Installing Selenium:**
 
 ``pip install selenium`` on Windows or ``pip3 install selenium`` on MacOS and Linux.
 All other packages required are already pre-installed with Python3
+
+**Setting up ChromeDriver:**
+
+You can Download ChromeDriver at https://chromedriver.chromium.org/downloads
+Make sure to download the version which matches with your Google Chrome version. Check your Chrome version by clicking the 3 dots at the top left corner and going to **Help** > **About Chrome**
 
 To set up the automation you will need your Google accounts Email and Password, as well as a private link.
 
