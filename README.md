@@ -1,3 +1,8 @@
+![ ](Untitled.jpg)
+
+
+
+
 # Python Google Classroom Automation
 
 A simple Python script that retrieves assignments from Google classroom using Selenim web scraping
