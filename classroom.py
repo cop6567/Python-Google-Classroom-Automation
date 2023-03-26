@@ -3,7 +3,7 @@ from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.by import By
 import time
 import os
-# Replace with the path to your SafariDriver executable
+# Replace with the path to your Chromedriver executable
 
 # Replace with your email and password
 email = 'EMAIL HERE'
