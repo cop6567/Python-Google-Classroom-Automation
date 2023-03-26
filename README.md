@@ -1,3 +1,5 @@
+![Banner](/path/to/banner.png)
+
 ![ ](banner.jpg)
 
 
