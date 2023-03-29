@@ -30,7 +30,7 @@ Replace the ``email`` variable with your email and the ``password`` variable wit
 In order to get a private link, go to Google Classroom's sign in page and click on **register** > **Google Classroom**.
 The URL that appears in the search bar is your private link.
 
-If you are already signed then click your profile on the top left and click **Add Another Account**. The same URL should appear above.
+If you are already signed then you may need to sign out or use a browser that is not logged in to your Google account.
 
 ⚠️ **NOTE:** Never Commit anything containing your private information ⚠️
 
